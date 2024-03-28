@@ -28,3 +28,12 @@ form{
     padding: 10px;
     border: 1px solid gray;
 }
+
+p{
+    color: green;
+}
+
+button {
+    background-color: blue; 
+    color: white;
+}
