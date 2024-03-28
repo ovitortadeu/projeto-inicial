@@ -13,5 +13,7 @@ h2{
 }
 
 .lista{
-    font-weight: bold;
+    display: inline;
+    font-weight: bold
 }
+
