@@ -15,5 +15,9 @@ h2{
 .lista{
     display: inline;
     font-weight: bold
-}
 
+}
+.container{
+    padding: 20px;
+
+}
